@@ -1,8 +1,9 @@
-Personnages : [Natsu Dragneel, Happy, Elfman, Frosh, Sherry,Juvia]
+Personnages : [Natsu Dragneel, Happy, Elfman, Frosh, Sherry,Juvia,Ichiya]
 
 Citations : ["Je m'enflamme !"
 "Aye !"
 "C'est un homme !"
 "Fro pense la même chose."
 "C'est l'amour."
-"Grey-sama~"]
+"Grey-sama~"
+"Meeeeen."]

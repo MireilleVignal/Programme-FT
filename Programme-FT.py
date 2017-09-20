@@ -1,6 +1,6 @@
-Personnages = ["Natsu Dragneel","Happy","Elfman","Frosh","Sheria","Juvia"]
+Personnages = ["Natsu Dragneel","Happy","Elfman","Frosh","Sheria","Juvia","Ichiya"]
 
-Citations = ["Je m'enflamme !","Aye !","C'est un homme !","Fro pense la même chose.","C'est l'amour.","Grey-sama~"]
+Citations = ["Je m'enflamme !","Aye !","C'est un homme !","Fro pense la même chose.","C'est l'amour.","Grey-sama~","Meeeeen."]
 
 import random
 
